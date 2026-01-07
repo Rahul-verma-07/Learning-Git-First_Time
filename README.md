@@ -10,5 +10,5 @@ Uses of Git:
 3. For "Team_work"
 <br><br>
 Uses of GitHub:
-<br>
+
 => GitHub provides a platform or a feature by making a "REPOSITORY" to "MULTIPLE PEOPLE" to work on Single "PROJECT" 
