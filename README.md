@@ -4,6 +4,7 @@ My first Git &amp; GitHub learning Repository, by Code_With_Harry.
 Author - Rahul Verma
 <br><br>
 What is Git?
+<br>
 => Git is a tool "VERSION CONTROL SYSTEM" that helps to track changes in our code.
 <br>
 Uses of Git:
@@ -13,6 +14,7 @@ Uses of Git:
 3. For "Team_work"
 <br>
 What is GitHub?
+<br>
 => A platform where Developers drop there "PROJECTS" in "REPOSITORY".
 <br>
 Uses of GitHub:
