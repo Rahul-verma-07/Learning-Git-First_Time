@@ -6,7 +6,7 @@ Author - Rahul Verma
 What is Git?
 <br>
 => Git is a tool "VERSION CONTROL SYSTEM" that helps to track changes in our code.
-<br>
+<br><br>
 Uses of Git:
 <br>
 1. To "Track the History of your Projects and Code"
@@ -16,7 +16,7 @@ Uses of Git:
 What is GitHub?
 <br>
 => A platform where Developers drop there "PROJECTS" in "REPOSITORY".
-<br>
+<br><br>
 Uses of GitHub:
 
 => GitHub provides a platform or a feature by making a "REPOSITORY" to "MULTIPLE PEOPLE" to work on Single "PROJECT" 
