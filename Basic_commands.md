@@ -4,10 +4,10 @@
 2. <b>STATUS</b> :- Displays the state of the code.<br>
 <pre>              => <b>git status</b>   </pre>
 <p1>Status Types :-</p1><br>
-1. UNTRACKED : New files that git doesn't get track.
-2. MODIFIED : Changes occured in a file.
-3. STAGED : Files are ready to Commit.
-4. UNMODIFIED : Unchanged file.<br>
+a. UNTRACKED : New files that git doesn't get track.
+b. MODIFIED : Changes occured in a file.
+c. STAGED : Files are ready to Commit.
+d. UNMODIFIED : Unchanged file.<br><br>
 
 2. <b>ADD</b> :- To add new files and changed files in the working directory to the git staging area.<br>
 <pre>              => <b>git add <-File Name-></b>   </pre><br>
