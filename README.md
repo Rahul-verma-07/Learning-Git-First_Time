@@ -18,5 +18,4 @@ What is GitHub?
 => A platform where Developers drop there "PROJECTS" in "REPOSITORY".
 <br><br>
 Uses of GitHub:
-
 => GitHub provides a platform or a feature by making a "REPOSITORY" to "MULTIPLE PEOPLE" to work on Single "PROJECT" 
