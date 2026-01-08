@@ -19,15 +19,15 @@ d. UNMODIFIED : Unchanged file.<br><br>
 <pre>              => <b>touch <-New file name-></b>   </pre><br>
 7. <b>INIT</b> :- It's used to create a new Git repository.<br>
 <pre>              => <b>git init</b>   </pre><br>
-8. <b>GIT BRANCHES</b> :- To provide another copy of the repository and code to allow others modify new changes.<br>
-<p2>COMMANDS :-</p2><br>
-<pre>              => <b>git branch</b>   </pre><br>
+8. <b>GIT BRANCHES</b> :- To provide another copy of the repository and code to allow others modify new changes.<br><br>
+<p2><b>COMMANDS :-</b></p2><br>
 <u>=> To check branch.</u>
-<pre>              => <b>git branch -m</b>   </pre><br>
+<pre>              => <b>git branch</b>   </pre><br>
 <u>=> To rename branch.</u>
-<pre>              => <b>git checkout <-Branch name-></b>   </pre><br>
+<pre>              => <b>git branch -m</b>   </pre><br>
 <u>=> To navigate branch.</u>
-<pre>              => <b>git checkout -b <-New branch name-></b>   </pre><br>
+<pre>              => <b>git checkout <-Branch name-></b>   </pre><br>
 <u>=> To create new branch.</u>
-<pre>              => <b>git branch -d <-Branch name-></b>   </pre><br>
+<pre>              => <b>git checkout -b <-New branch name-></b>   </pre><br>
 <u>=> To delete branch.</u><br>
+<pre>              => <b>git branch -d <-Branch name-></b>   </pre><br>
