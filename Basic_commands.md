@@ -7,4 +7,7 @@
 1. UNTRACKED : New files that git doesn't get track.
 2. MODIFIED : Changes occured in a file.
 3. STAGED : Files are ready to Commit.
-4. UNMODIFIED : Unchanged file.
+4. UNMODIFIED : Unchanged file.<br>
+
+2. <b>ADD</b> :- To add new files and changed files in the working directory to the git staging area.<br>
+<pre>              => <b>git add <-File Name-></b>   </pre><br>
