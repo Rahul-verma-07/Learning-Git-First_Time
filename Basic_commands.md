@@ -19,4 +19,5 @@ d. UNMODIFIED : Unchanged file.<br><br>
 <pre>              => <b>touch <-New file name-></b>   </pre><br>
 7. <b>INIT</b> :- It's used to create a new Git repository.<br>
 <pre>              => <b>git init</b>   </pre><br>
-8. <b>GIT BRANCHES</b> :-
+8. <b>GIT BRANCHES</b> :- To provide another copy of the repository and code to allow others modify new changes.<br>
+<p2>COMMANDS :-</p2><br>
