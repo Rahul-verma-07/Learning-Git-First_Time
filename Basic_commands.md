@@ -33,8 +33,8 @@ d. UNMODIFIED : Unchanged file.<br><br>
 <pre>              => <b>git branch -d <-Branch name-></b>   </pre><br>
 9. <b>GIT IGNORE</b> :- A file which is not made for commit, used for personal purpose. we can add extra unwanted files in git ignore.
 <pre>              => <b>touch .gitignore</b>   </pre><br>
-# <b>UNSTAGE</b> :- To unstage any file or changes.
+=> <b>UNSTAGE</b> :- To unstage any file or changes.
 <pre>              => <b>git restore --staged <-File Name-></b>   </pre><br>
-# <b>REMOTE</b> :- To PUSH all commits from our local machine to remote repository.
+=> <b>REMOTE</b> :- To PUSH all commits from our local machine to remote repository.
 <pre>              => <b>git remote add origin <-Some Link-></b>   </pre><br>
 <pre>              => <b>git push origin main</b>   </pre><br>
