@@ -31,3 +31,5 @@ d. UNMODIFIED : Unchanged file.<br><br>
 <pre>              => <b>git checkout -b <-New branch name-></b>   </pre><br>
 => To delete branch :
 <pre>              => <b>git branch -d <-Branch name-></b>   </pre><br>
+9. <b>GIT IGNORE</b> :- A file which is not made for commit, used for personal purpose. we can add extra unwanted files in git ignore.
+<pre>              => <b>touch .gitignore</b>   </pre><br>
